@@ -1,4 +1,8 @@
 ---
+genres:
+  - platformer
+  - roguelike
+  - action
 video: https://youtu.be/r8Plmqx1_O4
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
